@@ -242,7 +242,6 @@ window.addEventListener('scroll', function(){
      if(num > 400){
         typeTitle();
         top.classList.remove('show')
-        menu.classList.add('done')
       }else{
         menu.classList.remove('done')
         top.classList.add('show')
