@@ -243,8 +243,7 @@ window.addEventListener('scroll', function(){
         typeTitle();
         top.classList.remove('show')
       }else{
-        menu.classList.remove('done')
-        top.classList.add('show')
+         top.classList.add('show')
       }
     })
 })
